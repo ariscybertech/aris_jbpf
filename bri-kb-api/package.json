@@ -1,0 +1,25 @@
+{
+  "name": "teepme-api",
+  "version": "1.0.0",
+  "description": "api RESTful Teempe",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Teepme Indonesia"
+  ],
+  "author": "djanuar aransyah",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mssql": "^6.0.1",
+    "pg": "^7.14.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/becek2n/teepme-api.git"
+  }
+}
